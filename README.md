@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A 21-year old developer in Greece</h3>
 
+[![PayPal](https://img.shields.io/badge/donate-PayPal-blue?logo=PayPal&style=flat-square)](https://paypal.me/kneesdev)
+
 - 🌱 I’m currently learning **Python**
 
 - 📫 Reach me at **kneesdev@hotmail.com**
