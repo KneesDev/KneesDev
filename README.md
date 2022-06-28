@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nick</h1>
 <h3 align="center">A 21-year old developer in Greece</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kneesdev&label=Profile%20views&color=0e75b6&style=flat" alt="kneesdev" /> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 Reach me at **kneesdev@hotmail.com**
